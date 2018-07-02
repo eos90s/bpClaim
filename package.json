@@ -1,0 +1,17 @@
+{
+  "name": "bpClaim",
+  "version": "1.0.0",
+  "description": "EOS block producer auto claim rewards application",
+  "main": "app.js",
+  "author": "simors",
+  "license": "MIT",
+  "dependencies": {
+    "eosjs": "^15.0.3",
+    "mathjs": "^5.0.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-3": "^6.24.1"
+  }
+}
